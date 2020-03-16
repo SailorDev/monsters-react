@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+h1 {
+  font-family: Playball;
+  font-size: 50px;
+  color: rgb(11, 235, 123);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
